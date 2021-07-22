@@ -1,6 +1,6 @@
 <?php 
     class App{ 
-        private $_controller='Home';
+        private $_controller='Login';
         private $_action = "index";
         private $_params = [];
         function __construct(){ 
