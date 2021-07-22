@@ -49,7 +49,7 @@
 									<a href="#" style="color: #fff">Forgot Password</a>
 								</div>
 	            </div>
-	          <p class="w-100 text-center">&mdash;<a href="/MVC/controllers/Home.php">Trở về trang chủ</a> &mdash;</p>
+	          <p class="w-100 text-center">&mdash;<a href="/MVC/views/HomeView.php">Trở về trang chủ</a> &mdash;</p>
 	          <div class="social d-flex text-center">
 	          	<a href="#" class="px-2 py-2 mr-md-1 rounded"><span class="ion-logo-facebook mr-2"></span> Facebook</a>
 	          	<a href="#" class="px-2 py-2 ml-md-1 rounded"><span class="ion-logo-twitter mr-2"></span> Twitter</a>
