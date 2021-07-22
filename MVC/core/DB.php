@@ -4,10 +4,10 @@ class DB
     public $con;
     //mysql://b92a41fcac2802:77e581b8@us-cdbr-east-04.cleardb.com/heroku_a92ca5b5f558dcd?reconnect=true
     //sererold: localhost
-    protected $server = "localhost";
-    protected $username  = "root";
-    protected $password = "";
-    protected $dbname = "quanlyphonggym";
+    protected $server = "us-cdbr-east-04.cleardb.com";
+    protected $username  = "b742d22273447b";
+    protected $password = "8eef9c7a";
+    protected $dbname = "heroku_c46d7c7d7c4e255";
     function __construct()
     {
         $this->con = mysqli_connect(
