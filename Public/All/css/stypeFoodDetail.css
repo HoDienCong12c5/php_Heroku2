@@ -1,0 +1,135 @@
+.thanfooddetail{
+	width: 1200px;
+	margin: auto;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.nameTP{
+	color: blue;
+	font-size: 30px;
+	width:400px;
+}
+ 
+.clear {
+    margin-right: 10px;
+    border: 1px solid #F00;
+}
+.giaTP{
+	color: red;
+	font-size: 30px;
+}
+.img{
+	padding: 13px;
+	width: 300px; 
+	height: 350px;
+	border-radius: 20px;
+	
+
+}
+.khungAnh{
+    width: 330px;
+    height: 330px; 
+	border-radius: 50px;
+	border-color: red; 
+  } 
+table {
+	border-width: 1px;
+	border-color: black;
+}
+ 
+td{
+	padding-left: 10px;
+}
+ 
+article{
+	display:table-row;
+	
+}
+ aside#benphai ,section{
+	display:table-cell;
+	vertical-align:top;
+	border-width: 2px; 
+    border-color: aquamarine;
+	
+}
+aside{
+	margin-top: 20px;
+	border-width: 2px;
+	width: 300px;
+	height: 500px;
+	padding: 10px;
+	padding-top: 50px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.9), 0 2px 100px 0 rgba(0,0,0,0.1);
+}
+section{
+	padding:10px;
+	padding-top: 20px;
+	padding-left: 20px;
+	 width:880px;
+	 background-color: #fff;
+}
+.ctspbentrai{
+	height: 500px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.9), 0 2px 100px 0 rgba(0,0,0,0.1);
+}
+.traiThongtin{
+	
+	padding: 30PX;
+	color: #F96;
+	text-align: center;
+	font-size: 30px;
+}
+.gachchan{
+}
+.benphai
+{
+	padding:0px 10px;
+}
+/*kt phần show bài tập*/
+/* phần note bài tập */
+.noteWork{
+	padding: 20px;
+	padding-left: 30px;
+	border-width: 2px; 
+}
+.phantraiNote{
+	padding-left: 10px;
+}
+.gchan{
+	border: 2px solid black;
+}
+/* quoản cáo bên phải */
+.qcBenphai{
+	height: 400px;
+	width: 300px;
+	border-width: 2px;
+}
+.tieude{
+	font-size: 25px;
+	width: 250px;
+	padding-left: 5px;
+	background-color: rgb(163, 248, 248);
+}
+.imGT{
+	padding-left: 20px;
+}
+/* phần qc sản phẩm thêm */
+.qcSPBP{
+	padding: 10px;
+}
+.imgSPBP,.NDSPBP{
+	display: table-cell;
+	vertical-align:top;
+}
+.imgSPBP{
+
+}
+.NDSPBP{
+	text-align: center;
+	align-items: center;
+	height: 100px;
+}
+/* kt phấn qc */

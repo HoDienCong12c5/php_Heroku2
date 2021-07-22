@@ -1,0 +1,88 @@
+.than {
+    width: 1200px;
+  padding:20px;
+   
+    margin-left:80px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+table {
+    
+    
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+table, tr, td {
+    padding: 10px;
+    
+}
+td{
+    width:350px;
+    font-size:22px;
+}
+.tenCT{
+    text-align:center;
+}
+.anhSSP {
+    padding:10px;
+    width: 310px;
+    height: 310px;
+    border:2px solid#cba240;
+}
+.anhSP {
+    border: 2px solid#ff0000;
+    margin-left: 50px;
+}
+.SP {
+    text-align: center;
+}
+.tenSP {
+    font-weight:bold;
+    font-size: 25px;
+    color: #ff0000;
+}
+.tenSP1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #3d7925;
+}
+.loaiSP {
+    font-size: 25px;
+    color: #808080;
+}
+.giaSP{
+    color:red;
+    
+}
+u{
+    color:#813178;
+}
+.soluong {
+    width: 50px;
+    font-size:10px;
+}
+u {
+    font-size: 25px;
+}
+.dauSL{
+    font-size:25px;
+}
+.conlai{
+    font-size:25px;
+}
+.btnMuaNgay {
+    height: 50px;
+}
+.modal-header {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.modal-title {
+    margin-left: 110px;
+    color: #0f5c09;
+}
+
+.modal-footer {
+    background-color: azure;
+}

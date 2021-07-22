@@ -1,0 +1,17 @@
+.txt{
+    width: 100%;
+    border-radius: 10px
+}
+.tb{
+    width: 80%;
+}
+.tb tr {
+    
+}
+.tb tr td{
+    padding: 20px;  
+    border: 1px solid;
+}
+.chan{
+    background-color:antiquewhite;
+}

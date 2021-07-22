@@ -1,0 +1,57 @@
+.thanFood{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    background-color: #e5f7ff;
+}
+.thantrong{
+    background-color:#fdf5e6;
+    border-radius: 30px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.khungtieude{
+    background-color: #c6f09c;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.tieude{
+    color: #800080;
+    font-size: 30px;
+    font-weight: bold;
+}
+.voSP{
+    padding:10px;
+    padding-left:40px;
+    display:table-cell;
+	vertical-align:top;
+}
+.sanpham{
+    padding: 10px;
+    text-align: center;
+    background-color: #f5fffa;
+    width: 230px;
+    height: 330px;
+    border-radius: 15px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.anhSP{
+    width: 160px;
+    border-radius: 10;
+    height: 160px
+}
+.tenSP{
+    font-size: 20px;
+}
+.giaSP{
+    color: red;
+    font-weight: bold;
+}
+.btnmua{
+    height: 50px;
+    width: 120px;
+    background-image: url("./Public/images/AnhChucNang/chon_mua_nn.gif");
+}
